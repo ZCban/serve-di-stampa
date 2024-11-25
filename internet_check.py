@@ -57,3 +57,4 @@ def eth_restore():
         toggle_network_windows("Ethernet")
         toggle_network_windows("Wi-Fi")
 
+
